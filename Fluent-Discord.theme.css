@@ -7,6 +7,7 @@
  * @source https://github.com/TakosThings/Fluent-Discord
 */
 @import url(https://takosthings.github.io/Fluent-Discord/Fluent-Discord.css);
+@imoort url(https://raw.githubusercontent.com/samfundev/BetterDiscordStuff/a13b43c9e7e12ac43f97a6b88b9fd4eb31e215c0/Plugins/ChannelTabs/ChannelTabs.plugin.js);
 /**
  * Start user options
  * Visit the wiki for information on this section
