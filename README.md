@@ -1,4 +1,4 @@
-# Fluent Theme for Vencord
+# Windows Fluent Theme for Discord
 ALL CREDIT OF THIS THEME GOES TO [Tako](https://github.com/TakosThings).
 
-A theme for Vencord to make Discord align with the design princeables of Windows 11
+My version of a theme by Tako to make Discord align with the design princeables of Windows 11
